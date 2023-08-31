@@ -1,35 +1,41 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2ZShKZx-)
-# :wave: Git and GitHub Fundamentals
+# Expectations of this course
 
-The goal of this course is to give you a brief introduction to Git, SSH, and GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+# What you expect to get out of this course ? 
+I'm expecting to get a hands-on experience is a crucial aspect of your expectations from the course. Here's the updated list:
 
-![UD](https://upload.wikimedia.org/wikipedia/en/thumb/0/02/University_of_Dayton.svg/320px-University_of_Dayton.svg.png)
+1. **In-Depth Command-Line Knowledge:** You'll develop a strong command-line skill set, learning essential commands, shortcuts, and techniques for efficient system management.
 
-## Overview
+2. **Configuration Management:** You'll explore tools like Ansible, Puppet, or Chef, gaining the ability to automate and manage system configurations for consistency.
 
-### Learning Objectives
+3. **Networking Fundamentals:** You'll understand networking concepts within Linux and Unix systems, including IP addressing, routing, and firewall management.
 
-- Use Git can be used to manage source code (documentation source code)
-- Use SSH to access GitHub
-- Use HTTPS to access GitHub
-- Learn about the rich GitHub ecosystem for software development
-- Gain familiarity with GitHub Actions
+4. **Troubleshooting Skills:** Real-world scenarios in the course will help you develop strong troubleshooting skills for identifying and resolving issues.
 
-## Background
+5. **Version Control Integration:** Some courses might cover integrating version control systems like Git into your workflow, useful for managing configurations and scripts.
 
-Please read and understand the [background](./Background.md) material on Git and GitHub.  
+# What you are most looking forward to in the course ?
+Here are additional points to add to what you're looking forward to in the course:
+1. **Deep Dive into Terminal Usage:** Exploring the command line and terminal environment to understand its power and versatility.
 
-Become familiar with Secure Shell (SSH) and how it can be used to access a remote Git repository by reading [this](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) documentation.
+2. **Learning System Administration:** Gaining insight into how to manage users, permissions, software installations, and updates on Linux and Unix systems.
 
-## 📝 Tasks
+3. **Shell Scripting Mastery:** Acquiring the ability to create scripts for automation, making routine tasks more efficient.
 
-1. Add your "@udayton.edu" email to your GitHub account.  It does not need to be your primary email in the account.
-1. Enable two factor (2FA) on your GitHub account to secure it properly.
-1. Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-1. Create a SSH key pair on your primary computer.  Upload the SSH public key to your GitHub.com account.  You can obtain anyone's public keys on GitHub via their api.  For example, to get the instructor's public key run `curl https://github.com/ktarplee.keys` or browse to it [here](https://github.com/ktarplee.keys).  Replace `ktarplee` with your username and ensure you can download your public key(s).
-1. Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them.  Try cloning your repository with HTTPS and with SSH to observe the difference.
-1. Use Git to clone your repository to your computer.
-1. Create a new markdown file in this repository called `Expectations.md` at the top level of the repository. In the file please describe your expectations for the course.  To get started please answer these questions: What you expect to get out of this course?  What you are most looking forward to in the course?  Why you are taking the course?  There are not wrong answers to this, only incorrect markdown formatting.  Please use section headers and bulleted or numbered lists in your writeup.
-1. Use Git to commit and push your changes to GitHub.com so they show up when viewed in a web browser.
-1. Make sure your markdown file passes the markdown linter.  View the GitHub Actions for your assignment to see any errors.
-1. (Extra Credit) Make at least one signed commit in your assignment.  This commit must show up as a "verified" commit on GitHub to receive extra credit.  The documentation for signing your commits is [here](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification).
+4. **Networking Insights:** Understanding how Linux and Unix systems interact with networks, including configuration, troubleshooting, and security.
+
+5. **Security Practices:** Learning best practices for securing Linux and Unix systems, including user authentication, firewalls, and encryption.
+
+6. **Virtualization and Containers:** Exploring virtual machines and containerization using tools like VirtualBox, Docker, and Kubernetes.
+
+# Why you are taking the course ?
+Here are more points explaining why you're taking the course:
+
+1. **Skill Enhancement:** Seeking to enhance my technical skills and knowledge in Linux and Unix environments.
+
+2. **Career Growth:** Recognizing that proficiency in Linux and Unix is highly valued in the IT industry, and wanting to leverage this skill for career advancement.
+
+3. **Industry Relevance:** Acknowledging that Linux and Unix are widely used in various sectors, and wanting to align my skills with industry demands.
+
+4. **Problem-Solving Abilities:** Hoping to refine my problem-solving skills through hands-on experience with complex systems and scenarios.
+
+5. **Professional Confidence:** Aiming to feel confident in navigating and managing Linux and Unix systems in real-world scenarios.
